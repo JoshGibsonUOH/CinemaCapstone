@@ -1,4 +1,4 @@
-## My Repository Can Be Found Here: https://github.com/JoshGibsonUOH/CinemaCapstone
+## My Repository Can Be Found Here: 
 
 ## Introduction
 This is the git repository for your capstone project. You should use this repository throughout your development.
